@@ -1,5 +1,4 @@
 #1 Print even and odd numbers in seperate list..................................
-#from multiprocessing.reduction import duplicate
 
 org_list = [10,501, 22,37, 100, 999, 87, 351]
 
